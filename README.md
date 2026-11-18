@@ -113,7 +113,3 @@ Warnings in dense city traffic are much more frequent, which is expected: more p
 - [YOLOP](https://github.com/hustvl/YOLOP), panoptic driving perception (MIT)
 - [COCO](https://cocodataset.org/) and [BDD100K](https://bdd-data.berkeley.edu/) datasets the models were trained on
 - OpenCV, NumPy, ONNX Runtime
-
-## License
-
-The code in this repository is released under the **MIT** license, see [LICENSE](LICENSE). Third-party components keep their own licenses: Ultralytics YOLOv8 is AGPL-3.0 and YOLOP is MIT, so check the Ultralytics terms before using this project in anything beyond study or research.
