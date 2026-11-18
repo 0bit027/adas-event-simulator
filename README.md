@@ -2,7 +2,7 @@
 
 Monocular-camera ADAS simulator: detects vehicles, pedestrians and lane markings with **YOLOv8** + **YOLOP**, and generates **Forward Collision** and **Pedestrian** warnings from dashcam video.
 
-![Both warnings active on a dashcam frame](docs/multi_class_warning.png)
+![Both warnings active on a dashcam frame](docs/multi_class_warning.PNG)
 
 Built as the practical part of my bachelor thesis in Software Engineering (Singidunum University). The system runs on pre-recorded video and a CPU-only machine, so it is a simulator of ADAS warning logic, not a real-time production system.
 
@@ -16,7 +16,7 @@ Built as the practical part of my bachelor thesis in Software Engineering (Singi
 
 | Pedestrian Warning | Forward Collision Warning |
 |---|---|
-| ![Pedestrian warning](docs/pedestrian_warning.png) | ![Forward collision warning](docs/fcw.png) |
+| ![Pedestrian warning](docs/pedestrian_warning.PNG) | ![Forward collision warning](docs/fcw.PNG) |
 
 ## How it works
 
