@@ -1,0 +1,6 @@
+*.mp4
+*.pt
+*.onnx
+events_log.csv
+__pycache__/
+.venv/
